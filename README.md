@@ -1,3 +1,5 @@
+Use Eclipse to open this project.
+
 
 ![ScreenShot](https://user-images.githubusercontent.com/13085362/30240448-3816d564-95a3-11e7-8550-e2d55aa6f656.png)
 ![ScreenShot](https://user-images.githubusercontent.com/13085362/30240449-3e8fc9a0-95a3-11e7-8324-1705c25dbaef.png)
